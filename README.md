@@ -1,0 +1,1 @@
+This is a simple script meant to establish a windows device to any VNA or spectrum analyzer that allows for SCPI commands. Once connection is established personal code can be added to recieve actual data from the machine.
